@@ -52,6 +52,9 @@ Below is a comprehensive design for a cloud-agnostic container orchestration sys
 └───────────────────────┘   └─────────────────────┘   └───────────────────────┘
 ```
 
+With Controle Plan and which is aligned with Kubernetes.
+![alt text](K8ContainerOrchestrationArchitecture.png)
+
 ## Implementation Details
 
 ### 1. Cloud-Agnostic Kubernetes Deployment
